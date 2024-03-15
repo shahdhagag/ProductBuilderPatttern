@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ProductBuilderPattern">
+    <servlet>
+        <servlet-name>ProductBuilderServlet</servlet-name>
+        <servlet-class>ProductBuilderServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProductBuilderServlet</servlet-name>
+        <url-pattern>/ProductBuilderServlet</url-pattern>
+    </servlet-mapping>
+</Context>
+
+
